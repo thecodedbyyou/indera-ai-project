@@ -135,4 +135,4 @@ Advanced Content Models: Replace the heuristic-based quality score with a traine
 Knowledge Graph Creation: Instead of just storing text, extract relationships between entities (e.g., "Elon Musk" - founder of - "SpaceX") and store them in a graph database format.
 
 Interactive Dashboard: Create a simple web-based dashboard (using Streamlit or Flask) to query and explore the knowledge base in real-time.
-
+![INDERA++ Progress Graph](./assets/indera_progress_graph.png)
