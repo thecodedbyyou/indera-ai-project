@@ -1,0 +1,15 @@
+# Core Libraries
+requests
+beautifulsoup4
+pandas
+numpy
+scikit-learn
+sentence-transformers
+spacy==3.5.0  # Specific versions can help prevent errors
+torch
+matplotlib
+joblib
+
+# Note: The Spacy language model must be downloaded separately.
+# The indera.py script already handles this via:
+# !python -m spacy download en_core_web_sm
